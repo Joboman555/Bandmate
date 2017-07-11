@@ -1,7 +1,7 @@
 {
-  "name": "learn-redux",
-  "version": "1.0.0",
-  "description": ":) ",
+  "name": "Bandmate",
+  "version": "0.0.1",
+  "description": "Connect with local musicians! ",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
@@ -31,7 +31,7 @@
     "eslint": "^2.9.0",
     "eslint-plugin-babel": "^3.2.0",
     "eslint-plugin-react": "^5.0.1",
-    "express": "^4.13.4",
+    "express": "^4.15.3",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
     "react-addons-css-transition-group": "^15.0.2",
